@@ -13,7 +13,7 @@ Java, Spring Boot, Spring Security, Hibernate, HTML, CSS, Bootstrap, Thymeleaf, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/spas-pandev-4055b0275/" target="blank">
+  <a href="https://www.linkedin.com/in/spas-pandev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
        alt="https://www.linkedin.com/in/spas-pandev" height="30" width="40" />
   </a>
