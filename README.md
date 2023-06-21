@@ -5,3 +5,6 @@
 <h3 align="left">
 Currently, I am actively seeking employment as a junior Java programmer.
 </h3>
+
+Skills: 
+Java, Spring Boot, Spring Security, Hibernate, HTML, CSS, Bootstrap, Thymeleaf, MySql
