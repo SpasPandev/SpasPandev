@@ -7,4 +7,6 @@ Currently, I am actively seeking employment as a junior Java programmer.
 </h3>
 
 Skills: 
-Java, Spring Boot, Spring Security, Hibernate, HTML, CSS, Bootstrap, Thymeleaf, MySql
+Java, Spring Boot, Spring Security, Hibernate, HTML, CSS, Bootstrap, Thymeleaf, MySQL
+
+📫 How to reach me: spas.pandev@gmail.com
