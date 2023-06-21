@@ -3,7 +3,7 @@
   I am a young and motivated Java developer. I hold a Bachelor's Degree in Informatics and Software Science from Technical University of Sofia. I am eager to continuously learn and enhance my skills, embracing new challenges and opportunities in the field. 
 </h3>
 <h3 align="left">
-Currently, I am actively seeking employment as a junior Java programmer.
+Currently, I am actively seeking employment as a junior Java developer.
 </h3>
 
 Skills: 
@@ -13,7 +13,10 @@ Java, Spring Boot, Spring Security, Hibernate, HTML, CSS, Bootstrap, Thymeleaf, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/spas-pandev-4055b0275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spas-pandev-4055b0275/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/spas-pandev-4055b0275/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="https://www.linkedin.com/in/spas-pandev" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
