@@ -1,10 +1,10 @@
 # Hi 👋, I'm Spas Pandev
 
-###  I am a young and motivated Java developer. I hold a Bachelor's Degree in Informatics and Software Science from Technical University of Sofia. I am eager to continuously learn and enhance my skills, embracing new challenges and opportunities in the field. 
+***I am a young and motivated Java developer. I hold a Bachelor's Degree in Informatics and Software Science from Technical University of Sofia. I am eager to continuously learn and enhance my skills, embracing new challenges and opportunities in the field.***
 
-### Currently, I am actively seeking employment as a junior Java developer.
+**Currently, I am actively seeking employment as a junior Java developer.**
 
-Skills: 
+> Skills: 
 Java, Spring Boot, Spring Security, Hibernate, HTML, CSS, Bootstrap, Thymeleaf, MySQL
 
 📫 How to reach me: spas.pandev@gmail.com
