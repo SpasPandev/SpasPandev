@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Spas Pandev</h1>
-<h3 align="left">
-  I am a young and motivated Java developer. I hold a Bachelor's Degree in Informatics and Software Science from Technical University of Sofia. I am eager to continuously learn and enhance my skills, embracing new challenges and opportunities in the field. 
-</h3>
-<h3 align="left">
-Currently, I am actively seeking employment as a junior Java developer.
-</h3>
+# Hi 👋, I'm Spas Pandev
+
+###  I am a young and motivated Java developer. I hold a Bachelor's Degree in Informatics and Software Science from Technical University of Sofia. I am eager to continuously learn and enhance my skills, embracing new challenges and opportunities in the field. 
+
+### Currently, I am actively seeking employment as a junior Java developer.
 
 Skills: 
 Java, Spring Boot, Spring Security, Hibernate, HTML, CSS, Bootstrap, Thymeleaf, MySQL
 
 📫 How to reach me: spas.pandev@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/spas-pandev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
@@ -19,7 +17,7 @@ Java, Spring Boot, Spring Security, Hibernate, HTML, CSS, Bootstrap, Thymeleaf, 
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
