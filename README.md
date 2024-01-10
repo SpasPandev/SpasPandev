@@ -41,3 +41,7 @@ Java, Spring Boot, Spring Security, Hibernate, HTML, CSS, Bootstrap, Thymeleaf, 
     <img src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" alt="thymeleaf" width="40" height="40"/> 
   </a>
 </p>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=SpasPandev&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
