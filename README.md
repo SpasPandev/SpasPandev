@@ -1,6 +1,6 @@
 # Hi 👋, I'm Spas Pandev
 
-***I am a young and motivated Java developer. I hold a Bachelor's Degree in Informatics and Software Science from Technical University of Sofia. I am eager to continuously learn and enhance my skills, embracing new challenges and opportunities in the field.***
+***I am a young and motivated Java developer with a Bachelor's Degree in Informatics and Software Science from the Technical University of Sofia. I am currently completing my Master's Degree in Computer and Software Engineering at the Technical University of Sofia. I am eager to continuously learn and enhance my skills, embracing new challenges and opportunities in the field.***
 
 **Currently, I am actively seeking employment as a junior Java developer.**
 
